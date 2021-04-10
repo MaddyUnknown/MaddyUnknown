@@ -16,4 +16,14 @@
 
 <br />
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />]
+### Languages and Tools:
+
+[<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />]
+[<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />]
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />]
+[<img align="left" alt="Java" width="26px" src="https://img.icons8.com/nolan/48/java-coffee-cup-logo.png" />]
+[<img align="left" alt="Tensorflow 2.0" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" />]
+[<img align="left" alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />]
+[<img align="left" alt="PyQT" width="26px" src="https://en.wikipedia.org/wiki/PyQt#/media/File:Python_and_Qt.svg" />]
+[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />]
+[<img align="left" alt="github" width="26px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />]
