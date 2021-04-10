@@ -12,7 +12,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -23,7 +23,12 @@
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/nolan/48/java-coffee-cup-logo.png" />
 <img align="left" alt="Tensorflow 2.0" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
-<img align="left" alt="PyTorch" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
+<img align="left" alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
 <img align="left" alt="PyQT" width="26px" src="https://img.icons8.com/ios-filled/50/26e07f/qt.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="github" width="26px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
+
+
+[linkedin]: https://www.linkedin.com/in/mehdi-hossain-1514181b4/
+[instagram]: https://www.instagram.com/hossain_mehdi/
+[gmail]: mailto:hossainmehdi03@gmail.com
