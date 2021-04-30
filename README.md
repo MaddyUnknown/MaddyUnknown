@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="24px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="24px" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Gmail" width="24px" src="https://img.icons8.com/bubbles/100/000000/gmail.png" />][gmail]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Gmail" width="35px" src="https://img.icons8.com/bubbles/100/000000/gmail.png" />][gmail]
 
 <br />
 
@@ -26,7 +26,8 @@
 <a title="PyTorch" href="#"><img align="left" alt="PyTorch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" /></a>
 <a title="PyQT" href="#"><img align="left" alt="PyQT" width="26px" src="https://img.icons8.com/ios-filled/50/26e07f/qt.png" /></a>
 <a title="Git" href="#"><img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" /></a>
-<a title="GitHub" href="#"><img align="left" alt="github" width="26px" src="https://img.icons8.com/plasticine/100/000000/github.png" /></a>
+<a title="GitHub" href="#"><img aligh="left" width="26px" alt="GitHub" src="https://img.icons8.com/cute-clipart/64/000000/github.png"/></a>
+
 
 [linkedin]: https://www.linkedin.com/in/mehdi-hossain-1514181b4/
 [instagram]: https://www.instagram.com/hossain_mehdi/
