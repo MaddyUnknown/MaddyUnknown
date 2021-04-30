@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="24px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="24px" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Gmail" width="24px" src="https://img.icons8.com/bubbles/50/000000/gmail.png" />][gmail]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="24px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="24px" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Gmail" width="24px" src="https://img.icons8.com/bubbles/100/000000/gmail.png" />][gmail]
 
 <br />
 
