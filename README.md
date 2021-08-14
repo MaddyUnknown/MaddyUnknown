@@ -17,17 +17,16 @@
 <br />
 
 ### Languages and Tools:
-
+<a title="Python" href="#"><img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" /></a>
 <a title="C" href="#"><img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" /></a>
 <a title="C++" href="#"><img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
-<a title="Python" href="#"><img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" /></a>
 <a title="Java" href="#"><img align="left" alt="Java" width="26px" src="https://img.icons8.com/nolan/48/java-coffee-cup-logo.png" /></a>
+<a title="HTML" href="#"><img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+<a title="CSS" href="#"><img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a title="Tensorflow 2.0" href="#"><img align="left" alt="Tensorflow 2.0" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" /></a>
 <a title="PyTorch" href="#"><img align="left" alt="PyTorch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" /></a>
-<a title="PyQT" href="#"><img align="left" alt="PyQT" width="26px" src="https://img.icons8.com/ios-filled/50/26e07f/qt.png" /></a>
 <a title="Git" href="#"><img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" /></a>
-<a title="GitHub" href="#"><img aligh="left" width="26px" alt="GitHub" src="https://img.icons8.com/cute-clipart/64/000000/github.png"/></a>
-
+<a title="Github" href="#"><img  align="left" alt="Github" width="26px" src="https://img.icons8.com/color-glass/48/000000/github.png"/></a>
 
 [linkedin]: https://www.linkedin.com/in/mehdi-hossain-1514181b4/
 [instagram]: https://www.instagram.com/hossain_mehdi/
